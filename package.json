@@ -1,0 +1,22 @@
+{
+  "name": "liri",
+  "version": "1.0.0",
+  "description": "Assignment for week 10",
+  "main": "liri.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codechennerator/LIRI.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codechennerator/LIRI/issues"
+  },
+  "homepage": "https://github.com/codechennerator/LIRI#readme",
+  "dependencies": {
+    "twit": "^2.2.9"
+  }
+}
