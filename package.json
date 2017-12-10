@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/codechennerator/LIRI#readme",
   "dependencies": {
+    "node-fetch": "^1.7.3",
+    "node-spotify-api": "^1.0.7",
     "twit": "^2.2.9"
   }
 }
