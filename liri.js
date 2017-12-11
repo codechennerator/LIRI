@@ -131,6 +131,8 @@ function run(commandLine, commandRequest){
     getMovieData(commandRequest);
   }else if(commandLine === "do-what-it-says"){
     getFileData();
+  }else{
+    console.log("Invalid command line. Please don't break me.");
   }
 }
 /*------------------------------Inputs--------------------------------
